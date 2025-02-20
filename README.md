@@ -5,6 +5,7 @@ This repository contains the Verilog implementation and simulation of a Universa
 **Project Structure**
 
 ├── UART_TX
+
 │   ├── uart_tx.v        # UART Transmitter Module
 │   ├── uart_tx_tb.v     # Testbench for UART Transmitter
 │
